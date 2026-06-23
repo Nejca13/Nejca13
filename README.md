@@ -55,6 +55,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 </details>
 
 <details open>
@@ -68,6 +69,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
 </details>
 
 <details open>
@@ -79,6 +81,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LLaMA.cpp](https://img.shields.io/badge/LLaMA.cpp-FF6F00?style=for-the-badge&logo=meta&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 </details>
 
 <details open>
@@ -92,6 +95,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
+
 </details>
 
 <details open>
@@ -102,6 +106,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
 </details>
 
 ---
@@ -109,6 +114,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 ## 💼 Experiencia
 
 ### Profesor de Programación en Python
+
 **C.E.A.E.R** · Abr 2026 – Actualidad
 
 - Diseño y dictado de clases teóricas y prácticas de programación en Python orientadas a IoT.
@@ -116,6 +122,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 - Acompañamiento técnico y evaluación de alumnos en el desarrollo de proyectos de software y hardware.
 
 ### Fundador y Full-Stack Developer
+
 **Nejca** · Ene 2026 – Actualidad
 
 - Traducción de requerimientos de negocio a código, diseñando e implementando soluciones Full-Stack a medida.
@@ -124,6 +131,7 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 - Manejo directo y consultoría técnica con clientes para asegurar el éxito de cada proyecto.
 
 ### Desarrollador Full-Stack
+
 **Security and System** · Abr 2024 – Dic 2025
 
 - Diseño e implementación de APIs async con FastAPI y arquitectura por capas.
@@ -134,25 +142,13 @@ Full-Stack Developer con experiencia desde 2022 desarrollando aplicaciones web e
 - Soporte técnico y mejoras continuas en producción.
 
 ### Desarrollador Frontend / Full-Stack
+
 **Nejca** · Mar 2020 – Abr 2024 · Remoto
 
 - Arquitectura frontend y backend escalable con React, Next.js, TypeScript y Firebase.
 - Mejora continua de performance, seguridad y calidad de código.
 - Integración de autenticación (Google Auth) y servicios externos.
 - Gestión de tareas bajo metodología Scrum.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nejca13&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nejca13&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nejca13&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
 
 ---
 
